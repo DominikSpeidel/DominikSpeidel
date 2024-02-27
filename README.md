@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Dominik
+# Hi there 👋, I'am Dominik
 
 - 🔭 I’m currently partizipating in the Neue Fische Web Dev Bootcamp 
 - 👯 I’m looking to collaborate on learning how to code and learning greek
