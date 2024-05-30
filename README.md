@@ -1,6 +1,6 @@
 # Hi and welcome to my GitHub-Profile!
 
-- 🔭 I successfully graduated from the Neue Fische Web Dev Bootcamp.
+- ✅ I successfully graduated from the Neue Fische Web Dev Bootcamp.
 - 🧑🏽‍🎓 React development is a personal favorite of mine, with a particular strength in API interactions.
 - 🫱🏼‍🫲🏽 I am now on the lookout for a job as a Web Developer. My aim is to achieve proficiency as a Fullstack Developer, mastering both frontend and backend technologies.
 - 🇬🇷 I like to spend my free time collaborating on coding projects and learning Greek.
