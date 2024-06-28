@@ -13,12 +13,12 @@
 
 ### LeapOut
 
-- Deployment (Vercel)
+- Deployment (via Vercel)
 - Repository
 
-## Tischlein Deck Dich
+### Tischlein Deck Dich
 
-- Deployment (Vercel)
+- [Deployment](https://tailwind-css-project-a8kdb2fzs-dominiks-projects-416aae1e.vercel.app/) (via Vercel)
 - Repository
 
 
