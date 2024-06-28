@@ -13,13 +13,13 @@
 
 ### LeapOut
 
-- Deployment (via Vercel)
-- Repository
+- [Deployment](https://activities-app-kappa.vercel.app/6644544332bd265b8f74e4e2) (via Vercel)
+- [Repository](https://github.com/Volkerboehm1971/activities-app)
 
 ### Tischlein Deck Dich
 
 - [Deployment](https://tailwind-css-project-a8kdb2fzs-dominiks-projects-416aae1e.vercel.app/) (via Vercel)
-- Repository
+- [Repository](https://github.com/DominikSpeidel/TailwindCSS-Project)
 
 
 
