@@ -11,7 +11,7 @@
 
 # My Portfolio
 
-## LeapOut
+### LeapOut
 
 - Deployment (Vercel)
 - Repository
