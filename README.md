@@ -18,7 +18,7 @@
 
 ### Tischlein Deck Dich
 
-- [Deployment](https://tailwind-css-project-a8kdb2fzs-dominiks-projects-416aae1e.vercel.app/) (via Vercel)
+- [Deployment](https://tailwind-css-project-seven.vercel.app/) (via Vercel)
 - [Repository](https://github.com/DominikSpeidel/TailwindCSS-Project)
 
 
