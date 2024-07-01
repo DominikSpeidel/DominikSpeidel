@@ -13,7 +13,7 @@
 
 ### LeapOut
 
-- [Deployment](https://activities-app-kappa.vercel.app/6644544332bd265b8f74e4e2) (via Vercel)
+- [Deployment](https://activities-app-kappa.vercel.app/) (via Vercel)
 - [Repository](https://github.com/Volkerboehm1971/activities-app)
 
 ### Tischlein Deck Dich
