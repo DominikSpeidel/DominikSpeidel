@@ -1,4 +1,4 @@
-# Hi and welcome to my GitHub-Profile!
+# Hello and welcome to my GitHub-Profile!
 
 - ✅ I successfully graduated from the Neue Fische Web Dev Bootcamp.
 - 🧑🏽‍🎓 React development is a personal favorite of mine, with a particular strength in API interactions.
