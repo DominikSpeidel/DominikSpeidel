@@ -26,11 +26,8 @@
 - TicTacToe-Game: [Repository](https://github.com/DominikSpeidel/TicTacToe)
 <br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=gruvbox)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=tokyonight)
 
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DominikSpeidel&theme=radical)
 
 
 
