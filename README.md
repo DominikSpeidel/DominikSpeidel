@@ -27,6 +27,8 @@
 <br></br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikSpeidel&layout=compact&theme=radical)
+
 
 
 
