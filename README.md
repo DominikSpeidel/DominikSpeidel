@@ -25,7 +25,7 @@
 - WeatherApp: [Repository](https://github.com/DominikSpeidel/WeatherDisplay)
 <br></br>
 
-<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=tokyonight"/>
+<img alt="my stats" align="left" width="99%" src="https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=tokyonight"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
