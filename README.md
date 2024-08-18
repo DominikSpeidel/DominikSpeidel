@@ -25,6 +25,7 @@
 - WeatherDisplay: [Repository](https://github.com/DominikSpeidel/WeatherDisplay)
 - TicTacToe-Game: [Repository](https://github.com/DominikSpeidel/TicTacToe)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
