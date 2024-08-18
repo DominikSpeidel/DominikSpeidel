@@ -23,7 +23,7 @@
 ### C# Trainingprojects
 
 - WeatherDisplay: [Repository](https://github.com/DominikSpeidel/WeatherDisplay)
-- TicTacToe-Game: - [Repository](https://github.com/DominikSpeidel/TicTacToe)
+- TicTacToe-Game: [Repository](https://github.com/DominikSpeidel/TicTacToe)
 
 
 
