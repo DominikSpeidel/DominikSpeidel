@@ -20,10 +20,9 @@
 - [Deployment](https://tailwind-css-project-seven.vercel.app/) (via Vercel)
 - [Repository](https://github.com/DominikSpeidel/TailwindCSS-Project)
 
-### C# Trainingprojects
+### C# Trainingproject
 
 - WeatherDisplay: [Repository](https://github.com/DominikSpeidel/WeatherDisplay)
-- TicTacToe-Game: [Repository](https://github.com/DominikSpeidel/TicTacToe)
 <br></br>
 
 <img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=tokyonight"/>
