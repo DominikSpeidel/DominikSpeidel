@@ -20,6 +20,9 @@
 - [Deployment](https://tailwind-css-project-seven.vercel.app/) (via Vercel)
 - [Repository](https://github.com/DominikSpeidel/TailwindCSS-Project)
 
+### C# Training
+
+- [Repository](https://github.com/DominikSpeidel/WeatherDisplay)
 
 
 
