@@ -26,9 +26,8 @@
 - TicTacToe-Game: [Repository](https://github.com/DominikSpeidel/TicTacToe)
 <br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikSpeidel&layout=compact&theme=tokyonight&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikSpeidel&layout=compact&theme=tokyonight&card_width=600)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DominikSpeidel&show_icons=true&theme=tokyonight"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominikSpeidel&layout=compact&theme=tokyonight"/>
 
 
 
