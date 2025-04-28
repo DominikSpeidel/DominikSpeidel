@@ -11,8 +11,6 @@
 # My Portfolio
 
 ### LeapOut
-
-- [Deployment](https://activities-app-kappa.vercel.app/) (via Vercel)
 - [Repository](https://github.com/Volkerboehm1971/activities-app)
 
 ### Tischlein Deck Dich
